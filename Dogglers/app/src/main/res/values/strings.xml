@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Dogglers</string>
+
+    <string name="d1_name">Doxy</string>
+    <string name="d2_name">Jacky</string>
+    <string name="d3_name">Luna</string>
+    <string name="d4_name">Oliver</string>
+    <string name="d5_name">Lucy</string>
+
+    <string name="d1_age">4</string>
+    <string name="d2_age">2</string>
+    <string name="d3_age">3</string>
+    <string name="d4_age">7</string>
+    <string name="d5_age">1</string>
+
+    <string name="d1_hob">Sleep in dangerous places</string>
+    <string name="d2_hob">Swimming</string>
+    <string name="d3_hob">Sun Bathing</string>
+    <string name="d4_hob">Running</string>
+    <string name="d5_hob">Playing Fetch</string>
+    <string name="age">Age: </string>
+    <string name="hobby">Hobby: </string>
+    <string name="no">no</string>
+
+
+</resources>
